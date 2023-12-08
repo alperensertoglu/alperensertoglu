@@ -1,5 +1,5 @@
 # 💫 About Me:
-After completing my Full-Stack Developer Bootcamp, I've developed a Spring Boot/React project with my teammates. <br>Every part of my education I've learned something new and it is most important thing for me. Always better, always forward.<br>Now I'm currently an intern in Bilge Adam Academy. Looking forward to learn new things and open for business
+After completing my Full-Stack Developer Bootcamp, I've developed a Spring Boot/React project with my teammates. <br> Every part of my education I've learned something new and it is most important thing for me. Always better, always forward.<br><br>    Now I'm currently an intern in Bilge Adam Academy. Looking forward to learn new things and open for business
 
 
 ## 🌐 Socials:
